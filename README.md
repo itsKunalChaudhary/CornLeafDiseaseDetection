@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using CNN and Transfer Learning
+# 🌿 Corn Leaf Disease Detection using CNN and Transfer Learning
 
 This project aims to classify plant leaf images into four disease categories using Convolutional Neural Networks (CNN) and Transfer Learning with **ResNet50** and **VGG16**. The dataset is divided into training, validation, and test sets, and models are evaluated using metrics such as accuracy, confusion matrix, and ROC-AUC curves.
 
